@@ -1,0 +1,1 @@
+Fatal Four Challenge backup point before Supabase integration.
